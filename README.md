@@ -5,7 +5,7 @@ Express + MongoDB backend for **WedPlan – Wedding Planning Platform**. Authent
 Express middleware. Premium vendor subscriptions use **Stripe Checkout (test mode)** and are activated **only** by
 signature-verified webhooks. Images are hosted on **ImgBB**.
 
-- **Client repo:** <https://github.com/YOUR-USERNAME/wedplan-client>  ← _replace_
+- **Client repo:** <https://github.com/julkar929/wedplan-client>
 - **Live API:** _add deployed URL_
 - **Live client:** _add deployed URL_
 
